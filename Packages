@@ -18,14 +18,15 @@ Author: BekEs - بيكاس
 Package: com.bekes-505.github.io.anne
 Architecture: iphoneos-arm
 Version: 1.0.1
+Section: Tweaks
 Maintainer: @B6_7E
 Depends: firmware (>=13), mobilesubstrate (>= 0.9.5000)
 Filename: ./debs//com.bekes-505.github.io.anne_1.0.1_iphoneos-arm.deb
-Size: 13718
-MD5sum: 6a4ddf862b7982f9f2f5d513c8285c31
-SHA1: 03cc7087d93b529936ade469ccc994fc44cd4034
-SHA256: 341341608e620f60861f5baede9750bc38eeee8a3d7a7baaf92e4351ecc0377e
-SHA512: cf53326ac26eb23b44d18aee8b74e2716e96392b52c461b7a676194f1661aef740df712b25121bbea348d32f907a35fa3969bd87ef0560fdba56b8e206c4838e
+Size: 13728
+MD5sum: fc75325ba36896f98e1e78589cb5c8c9
+SHA1: 81b3e0533433c327c77373a166188cf599da77e5
+SHA256: 27fe00305ca0498df39c0936cd64c05ccc10aad394497714b38e7ab25d08120c
+SHA512: b9c54125f0793ff5ef15530c5b2fd4619faa6bc9a58b5d208403d9f16d255359b79ebc6e8ded1fbaf35ec8d67395862b0918b6b6f028ece4f24c011ae3dc05f6
 Description: اداة وظيفتها : تسمح لك بقفل خيار الصور المخفية في تطبيق الصور ببصمة الوجة♡♡ ‏♯̶!.
 Name: Anne
 Tags: compatible_min::ios13, compatible_max::ios15
