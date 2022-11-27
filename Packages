@@ -1,0 +1,278 @@
+Package: com.bekes-505.github.io.a-font
+Architecture: iphoneos-arm
+Version: 1.9.3
+Section: Tweaks
+Maintainer: @B6_7E
+Installed-Size: 2380
+Depends: mobilesubstrate, applist (>= 1.5.15~beta1)
+Filename: ./debs//com.bekes-505.github.io.a-font_1.9.3_iphoneos-arm.deb
+Size: 1644142
+MD5sum: 6b970e6c2d5d174ceb0dd86803a158c4
+SHA1: e30058eceb3aaf2883d24fe076d82e508fcb12a2
+SHA256: 7741ca695343224d6d75d6c33875645c206383589de60b83e5cdb037cad9f886
+SHA512: f6a6cec28d4a4c6c2a1e5c66b5e002e5cefe9d276297aba4357421c6be6bde4bf31cd3a8388bc76b17be66d4dda2662ca800f7e9f0b3e925976391e816df1b9f
+Description: اداة وظيفتها : تغير خط الايفون الكامل الي اي خط من اختيارك ♡♡ ‏♯̶!.
+Name: A-Font
+Author: BekEs - بيكاس
+
+Package: com.bekes-505.github.io.anne
+Architecture: iphoneos-arm
+Version: 1.0.1
+Maintainer: @B6_7E
+Depends: firmware (>=13), mobilesubstrate (>= 0.9.5000)
+Filename: ./debs//com.bekes-505.github.io.anne_1.0.1_iphoneos-arm.deb
+Size: 13718
+MD5sum: 6a4ddf862b7982f9f2f5d513c8285c31
+SHA1: 03cc7087d93b529936ade469ccc994fc44cd4034
+SHA256: 341341608e620f60861f5baede9750bc38eeee8a3d7a7baaf92e4351ecc0377e
+SHA512: cf53326ac26eb23b44d18aee8b74e2716e96392b52c461b7a676194f1661aef740df712b25121bbea348d32f907a35fa3969bd87ef0560fdba56b8e206c4838e
+Description: اداة وظيفتها : تسمح لك بقفل خيار الصور المخفية في تطبيق الصور ببصمة الوجة♡♡ ‏♯̶!.
+Name: Anne
+Tags: compatible_min::ios13, compatible_max::ios15
+Author: BekEs - بيكاس
+
+Package: com.bekes-505.github.io.appstoreplusplus
+Architecture: iphoneos-arm
+Version: 0.10.1-5
+Priority: optional
+Section: Tweaks
+Maintainer: CokePokes
+Depends: firmware (>= 11.0), mobilesubstrate
+Conflicts: com.unlimapps.uaupdatetools
+Filename: ./debs//com.bekes-505.github.io.appstoreplusplus_0.10.1-5_iphoneos-arm.deb
+Size: 4624234
+MD5sum: 5e4e7e610b3be3284179ec8dbb1d4463
+SHA1: b2c64d723aeb55b7fdeb3f216bed6da442884be0
+SHA256: ec8786aff403161e1c571cbbc320060ff679a6b4fd986feffdc404415e6372e5
+SHA512: a740bd13f8ed3867be673897c16c613b8d4da716a30bf84febfb80146421544f7788e5566d98b87bc3afb1ce4757352ebc82025cefb6a296bc31413927f91917
+Description: اداة وظيفتها : ابل ستور بلس لارجاع التطبيقات على اصدارات قديمھ ♡♡ ‏♯̶!.
+Name: AppStore++
+Author: BekEs - بيكاس
+
+Package: com.bekes-505.github.io.blockerads
+Architecture: iphoneos-arm
+Version: 1.0
+Section: Tweaks
+Maintainer: BigBoss <bigboss@thebigboss.org>
+Installed-Size: 1913
+Depends: mobilesubstrate (>= 0.9.5000), preferenceloader (>= 2.2.2), firmware(>= 8.0), applist
+Conflicts: com.yllier.blocker
+Filename: ./debs//com.bekes-505.github.io.blockerads_1.0_iphoneos-arm.deb
+Size: 665182
+MD5sum: c48a2e794b06d941f78c8f92f858176a
+SHA1: 3abd7cf8476efd8ede7f479d331399096e6d93ee
+SHA256: 33509c08b2b6d41bf120b8f34ae41f5f9150a0ebdfb74bed30a4cf72b410a117
+SHA512: aa3f4792ff1c834e1d4957afd557aea3226234948e7cbcfd1139d3b18fa0597010f2a404069ba339e467af57a1e20e737b2ffa5cb3f69e435ca6c0591e2363d8
+Description: اداة وظيفتها : ازالة الاعلانات من تطبيقات البلس ومن بعض التطبيقات وسفاري وحظر الاعلانات من الجهاز  وتطبيقات وتدعم التحديثات الاخيره من ادوات البلس لحذف الاعلانات منها ♡♡ ‏♯̶!.
+Name: AdBlocker
+Author: BekEs - بيكاس
+Sponsor: thebigboss.org
+
+Package: com.bekes-505.github.io.relicloader
+Architecture: iphoneos-arm
+Version: 3.3.3
+Section: Tweaks
+Maintainer: no5up + Kanji
+Installed-Size: 2664
+Depends: mobilesubstrate
+Conflicts: com.wyattgahm-kanji.shadowx
+Filename: ./debs//com.bekes-505.github.io.relicloader_3.3.3_iphoneos-arm.deb
+Size: 1305334
+MD5sum: 7b4986ab00576748b3475b9efc287a61
+SHA1: 470ae5e62a74bece6c8763076c816bb3f3f53730
+SHA256: 6ae54b34fd4b0a2da838a89c196e4fd30c1c33506303ccfa9d5c842032f4c262
+SHA512: d23895c8dab11b95a43fba4318efe4951c8b272e5b26821847a3b11e3bd4ad5d92685f58277e5ca254a4284538efea8f8bd961878230868ccd2006f32d5f9f74
+Description: اداة وظيفتها : سناب بلس بمميزات كثيره وعلى اخر اصدار لي السناب حفظ ورفع واخفاء وتعديلات كثير وتم تنظيف الاداه من سيرفر التتبع ♡♡ ‏♯̶!.
+Name: relicloader
+Author: BekEs - بيكاس
+
+Package: com.bekes-505.github.io.secretphotography
+Architecture: iphoneos-arm
+Version: 2.0.6
+Section: Tweaks
+Maintainer: Spark
+Installed-Size: 560
+Depends: mobilesubstrate, preferenceloader
+Filename: ./debs//com.bekes-505.github.io.secretphotography_2.0.6_iphoneos-arm.deb
+Size: 73973202
+MD5sum: b42ade94b26e393f07bb7caf9d08c730
+SHA1: 94f2ea1615f62e0e20683304178f1260661c4050
+SHA256: fd44aa23fc16e4fee998694ce9cd12a02ebd1e5b9465aa2a215fb26f01cbc853
+SHA512: 5500bf0188ae22e01287aa18f4239e7a23c832134992e40f33d415c0bf156438629089065d036a572219e41717f8a7d5ed2209fdd2d31768074da78884288b77
+Description: ادوات وظيفتها : تصوير بخفية بدون علم احد اداتين مجمعه ♡♡ ‏♯̶!.
+Name: Secret Photography
+Author: BekEs - بيكاس
+
+Package: com.bekes-505.github.io.shadowx12
+Architecture: iphoneos-arm
+Version: 2.0.1
+Section: Tweaks
+Maintainer: no5up x Kanji
+Installed-Size: 336
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs//com.bekes-505.github.io.shadowx12_2.0.1_iphoneos-arm.deb
+Size: 106516
+MD5sum: b803a8c19f40b6eaeade61c54ea48e89
+SHA1: f09e81a1473ce1112c92d257535e3464d1ac1d03
+SHA256: 1245546897783346c511325945ee4c3b476bc0c38fe319bd1a12804c77267deb
+SHA512: f46cf1944871d2caee5044d174f1db6f33059327519241dc63dd8ad0ead6004a8f3e7c75b494fe6ce8b9e1f69d71e14652d2663bfa5f158927fc54024060031e
+Description: اداة وظيفتها : سناب شادو بلس اضافة ميزات لسناب منها رفع وحفظ من الخاص والعام وتخفي عند مشاهدة الخاص والاستوري لاصدار 12 اصدار السناب 11.65♡♡ ‏♯̶!.
+Name: Shadow X (iOS 12)
+Author: BekEs -بيكاس
+
+Package: com.bekes-505.github.io.shadowx
+Architecture: iphoneos-arm
+Version: 2.0.2
+Section: Tweaks
+Maintainer: no5up x Kanji
+Installed-Size: 340
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs//com.bekes-505.github.io.shadowx_2.0.2_iphoneos-arm.deb
+Size: 107112
+MD5sum: cb531d3d2cc1177fe2bdf814410a0cbf
+SHA1: a000ab94c03901a65cc262a0b58b50b6ceb668a7
+SHA256: e1db93331c04348ca19ac679accbf957185f842adbac619fe8f2d47d9b2b3026
+SHA512: 465e854a19b8ace546c67ba02ac942d91172132bf0c87b4f09770637497916feb60cc1dca5f3ca93825160462d4cae106fd9133c8077e3d74ef5b9605165d2fa
+Description: اداة وظيفتها : سناب شادو بلس اضافة ميزات لسناب منها رفع وحفظ من الخاص والعام وتخفي عند مشاهدة الخاص والاستوري  ♡♡ ‏♯̶!.
+Name: Shadow X
+Author: BekEs - بيكاس
+
+Package: com.bekes-505.github.io.trollstorehelperpermasignerios
+Architecture: iphoneos-arm
+Version: 1.0
+Section: Tweaks
+Maintainer: @B6_7E
+Installed-Size: 640
+Filename: ./debs//com.bekes-505.github.io.trollstorehelperpermasignerios_1.0_iphoneos-arm.deb
+Size: 5011932
+MD5sum: 226fde012316dae64e309eac08d2df4b
+SHA1: 8453a1577f21a37e82e454c6756445addf04c2a0
+SHA256: 418255c11573b9a90c17bfe71ac71180c4d035068ee5cf21428fd44362a7c5e8
+SHA512: 8713600e1ad9ba3e2ebc9bba4d89ff2b8fafbf02f6b516821cd19b848de1245c6731b5101b8f6f2f1b0920de85be6b05b7ec47172740eb51b320f349888376ba
+Description: ادوات وظيفتهم : توقيع التطبيقات بشهادة لا نهايه مدى الحياة اداه بالجلبريك والاداة الثانية بدون جلبريك  ♡♡ ‏♯̶!.
+Name: TrollStore Helper + PermasigneriOS
+Author: BekEs - بيكاس
+
+Package: com.toyopagroup.picaboo2022
+Architecture: iphoneos-arm
+Version: 11.71.0
+Section: Tweaks
+Maintainer: @B6_7E
+Depends: firmware (>=11.0)
+Filename: ./debs//com.toyopagroup.picaboo2022_11.71.0_iphoneos-arm.deb
+Size: 72211592
+MD5sum: 2635410568a54ca30104f2fdaa85c22d
+SHA1: aa741fa078c4ecd0be8b3fc1e6584fff2a2345b0
+SHA256: 78a3dddfe3c1734e9d7397f08b98452853bc71dc753cd217fd47985a04b295a9
+SHA512: 9423d0f65ab41c7b0b82757f0290b41bd67b8108c87a4b65f43a96b78d8f90e3a9fd2c3e3cb04e12b7acd50e1f8afa6cbd74963222bcd9ddc7ef4b24f71b12e8
+Description: تطبيق سناب شات بلس مكرر وفيه ميزات كثيره رفع وحفظ تغير الموقع بشهاده لا نهايه حتى لو طفى عليك الجلبريك ♡♡ ‏♯̶!.
+Name: # Snapchat2
+Author: BekEs - بيكاس
+Tags: compatible_min::ios11.0
+
+Package: com.turkishDrama.rm
+Architecture: iphoneos-arm
+Version: 1.0
+Section: Tweaks
+Maintainer: turkishDrama
+Depends: firmware (>=10.0)
+Filename: ./debs//com.turkishDrama.rm_1.0_iphoneos-arm.deb
+Size: 2953928
+MD5sum: aca770e79d02826da2b82f90fc350d0e
+SHA1: 4d5e43dedd958ecae4ac91d3aabc917524f0b1fc
+SHA256: 4f950a7f507fe0901d17d5140aacd437f57d2e469f624190abcf10367df99398
+SHA512: 0982c10e340e5242fea7254b55924bd7b6a1ef5600cf239452a4f36d07b0b18f12021f5868ae76d486888a020a58118456f6f55f504a35904b128ca026ff7ab0
+Description: تطبيق الدراما التركية بشهادة حتى لو طفى الجهاز ♡♡ ‏♯̶!.
+Name: # Drama Turkish
+Author: BekEs - بيكاس
+Tags: compatible_min::ios10.0
+
+Package: dev.zero.wicked
+Architecture: iphoneos-arm
+Version: 1.0.4
+Section: Development
+Maintainer: zero
+Installed-Size: 7296
+Depends: mobilesubstrate, dev.zero.wisp
+Replaces:
+Filename: ./debs//dev.zero.wicked_1.0.4_iphoneos-arm.deb
+Size: 3907720
+MD5sum: 16f66ebe038f81d88918ec80dfe4c989
+SHA1: 5399b64896438ec7714a8a95e8c9ea452d431a45
+SHA256: 6f3e5a5f9132693b4b74cef6e9a8bdb00929cf6a78513e01ffb7e525691d8edc
+SHA512: ec1050818fbfe0bdaecadf2d0733e732b93fd841c794ec793c6187b70ea05bfe932e589de8f552ad5a5128b8c244ae4c0d35663cfa126502f783cd35c19286ff
+Description: ;)
+Name: wicked
+Author: zero
+
+Package: dev.zero.wisp
+Architecture: iphoneos-arm
+Version: 1.0
+Section: Development
+Maintainer: zero
+Installed-Size: 84
+Depends: mobilesubstrate (>= 0.9.5.000)
+Filename: ./debs//dev.zero.wisp_1.0_iphoneos-arm.deb
+Size: 5746
+MD5sum: c8f439c81e370500f00fc0aa53af8185
+SHA1: 23740d92af3d4e8b1067a6eb6719e48b88f026fa
+SHA256: e96b3c02bd3c49f1330d3bbceabb3e6d63b89e1328bcca5c573af95f7d179448
+SHA512: f2186b60535143ca29a3f5353acce23fe20c785fc3e5fd6ee90f543e1366215ca57817fb542ebaf6798552472371bd9dc658c3b75e69800bf3f3708b2930375b
+Description: ;)
+Name: wisp
+Author: zero
+
+Package: org.mr.xline
+Architecture: iphoneos-arm
+Version: 2.5-2k
+Section: Tweaks
+Maintainer: MainRepo
+Installed-Size: 932
+Depends: firmware (>= 10.0), mobilesubstrate (>= 0.9.5000), preferenceloader, com.rpetrich.rocketbootstrap, org.mr.cunstuck
+Filename: ./debs//org.mr.xline_2.deb
+Size: 239140
+MD5sum: 3007679e136449b1288755ff89d82ca6
+SHA1: 33169fa179f01e06f8813a2ae54b76659ebad638
+SHA256: 798a987f8bea9d22e929926c6b78ce399ebf07b695d66bdaec395148345e0416
+SHA512: 70ad9a88c9665458d252ef6546e1dddf1551c6c6acb07f22a29b6cc951746d71250ed7cd9e09958567a9120cd43b3da7de83d7b11172d3af079001800c8f18c6
+Description: اداة وظيفتها : فتح لك اكثر من حساب في التطبيقات ♡♡ ‏♯̶!.
+Name: XLine
+Author: CUNSTUCK
+SileoDepiction: https://mrepo.org/sileo/4992
+
+Package: ru.rejail.dleasy
+Architecture: iphoneos-arm
+Version: 2.12.9k
+Section: Tweaks
+Maintainer: ReJail <rejail@rejail.ru>
+Installed-Size: 3789
+Depends: mobilesubstrate, preferenceloader, com.rpetrich.rocketbootstrap
+Filename: ./debs//ru.rejail.dleasy_2.12.9k_iphoneos-arm.deb
+Size: 1497736
+MD5sum: abaeda13f6ee60e7a66bfdda14f65674
+SHA1: f167eee031ed59f5e8dfdc5fb669bcf543a94ae8
+SHA256: 4710e5ffd4f543b9facb6e998aa3be2ceaed14dd93fe070909100a19fd382b08
+SHA512: 550c1d499e537b7a929d457435a845e9212fce15590fb6dba3fa4398020a6267762304a6ba71da23695788f8a4e071e5170f9c2ac1afc3c182fb7d669fd4cbfe
+Description: اداة وظيفتها : تحميل من اليوتيوب ومن التواصل الاجتماعي ♡♡ ‏♯̶!.
+Name: DLEasy
+Author: AhmedBafkir <prooxy0@gmail.com>
+SileoDepiction: https://rejail.ru/sileo/depiction.php?file=dleasy
+
+Package: ru.rj.tiktoklrd
+Architecture: iphoneos-arm
+Version: 1.7k
+Section: Tweaks
+Maintainer: @B6_7E
+Installed-Size: 4873
+Depends: mobilesubstrate, preferenceloader, ws.hbang.common (>= 1.11), firmware (>= 11.0)
+Filename: ./debs//ru.rj.tiktoklrd_1.7k_iphoneos-arm.deb
+Size: 3403800
+MD5sum: 9ca3e60db98f8d6830833bf20f666a5f
+SHA1: 8d4e7529e7432d3c957b5c160cd6d4021a6751f9
+SHA256: 5eebbdab26538ff2f6c9e35fd8e723c66d2b84029a60db03224f16c12a9f9dfb
+SHA512: 8ede56eba3979be9dd6da331eff6f8270191280eb82ec9719db42d05d97cba4176cede5a58e1d6b9c14ecd85daf1eb77689ac4aacbfcd586ff7fba457007fa3d
+Description: اداة وظيفتها : تيك توك بلس حفظ الفيديو بدون علامة مائية و مشاركة الفيديو و إخفاء واجهة المستخدم و تشغيل الفيديو التالي تلقائيًا و تخطي البث المباشر أثناء المشاهدة تلقائيًا و إظهار شريط التقدم للفيديو و إمكانية رفع الفيديو بالجودة العالية و حفظ صورة الملف الشخصي ♡♡ ‏♯̶!.
+Name: TikTokLRD
+Author: iStorePlus <istorevip007@gmail.com>
+Depiction: http://bekes.firepo.me/view/2652
+
