@@ -1,3 +1,20 @@
+Package: com.bekes-505.github.io.BHTwitter
+Architecture: iphoneos-arm
+Version: 3.3
+Priority: optional
+Section: Tweaks
+Maintainer: @B6_7E
+Depends: firmware (>= 13.0), mobilesubstrate, ws.hbang.common (>= 1.17)
+Filename: ./debs//com.bekes-505.github.io.BHTwitter_3.3_iphoneos-arm.deb
+Size: 1151768
+MD5sum: 4c187ce53eb8d0ab3463e80012612453
+SHA1: f9688b8501dbafb7242f69484ac6e403287fb8fe
+SHA256: 10dd0d7682c4085f8ecbca4d09a6d75522bced11989ba24bbbe9f5c62961d386
+SHA512: 7a005f9e0a2acffd74cba27b1c52a0b9efc4ad5cef9584a998c1975ea43a2aa68a36e8b90fb84ce3d1610d8c7246c3e9f7e574216dbb596df337b3bac804c68b
+Description: اداة وظيفتها : اضافة مميزات لتطبيق تويتر مثل حفظ الفيديو ، وتسجل صوت في الخاص، وكامل المميزات مسجله في الصورة ♡♡ ‏♯̶!.
+Name: BHTwitter
+Author: BekEs - بيكاس
+
 Package: com.bekes-505.github.io.a-font
 Architecture: iphoneos-arm
 Version: 1.9.3
