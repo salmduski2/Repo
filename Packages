@@ -171,6 +171,23 @@ Description: ادوات وظيفتهم : توقيع التطبيقات بشها�
 Name: TrollStore Helper + PermasigneriOS
 Author: BekEs - بيكاس
 
+Package: com.bekes-505.github.io.wicked
+Architecture: iphoneos-arm
+Version: 1.0.4
+Section: Tweaks
+Maintainer: @B6_7E
+Installed-Size: 7296
+Depends: mobilesubstrate
+Filename: ./debs//com.bekes-505.github.io.wicked_1.0.4_iphoneos-arm.deb
+Size: 3964324
+MD5sum: b8fc1864aa33e957e9ef1e6fb6285404
+SHA1: d63c7d6ddf4486b7c0bb66c631ac82fa9b8ccc7a
+SHA256: 7352113640d340a965c74f56bb75ca5b52ba098618faa62238cffc93054906e3
+SHA512: e4516161a95a62378f5d1518488926c85220340c9a7517a897efe2eace46b17716ae42d759b492a4e045b8fd459909cef31be986daf256f8719ddab1c69772b4
+Description: اداة وظيفتها : سناب بلس حفظ ورفع وتخفي في الدردشة وتغير الموقع ♡♡ ‏♯̶!.
+Name: wicked
+Author: BekEs - بيكاس
+
 Package: com.toyopagroup.picaboo2022
 Architecture: iphoneos-arm
 Version: 11.71.0
@@ -204,41 +221,6 @@ Description: تطبيق الدراما التركية بشهادة حتى لو �
 Name: # Drama Turkish
 Author: BekEs - بيكاس
 Tags: compatible_min::ios10.0
-
-Package: dev.zero.wicked
-Architecture: iphoneos-arm
-Version: 1.0.4
-Section: Development
-Maintainer: zero
-Installed-Size: 7296
-Depends: mobilesubstrate, dev.zero.wisp
-Replaces:
-Filename: ./debs//dev.zero.wicked_1.0.4_iphoneos-arm.deb
-Size: 3907720
-MD5sum: 16f66ebe038f81d88918ec80dfe4c989
-SHA1: 5399b64896438ec7714a8a95e8c9ea452d431a45
-SHA256: 6f3e5a5f9132693b4b74cef6e9a8bdb00929cf6a78513e01ffb7e525691d8edc
-SHA512: ec1050818fbfe0bdaecadf2d0733e732b93fd841c794ec793c6187b70ea05bfe932e589de8f552ad5a5128b8c244ae4c0d35663cfa126502f783cd35c19286ff
-Description: ;)
-Name: wicked
-Author: zero
-
-Package: dev.zero.wisp
-Architecture: iphoneos-arm
-Version: 1.0
-Section: Development
-Maintainer: zero
-Installed-Size: 84
-Depends: mobilesubstrate (>= 0.9.5.000)
-Filename: ./debs//dev.zero.wisp_1.0_iphoneos-arm.deb
-Size: 5746
-MD5sum: c8f439c81e370500f00fc0aa53af8185
-SHA1: 23740d92af3d4e8b1067a6eb6719e48b88f026fa
-SHA256: e96b3c02bd3c49f1330d3bbceabb3e6d63b89e1328bcca5c573af95f7d179448
-SHA512: f2186b60535143ca29a3f5353acce23fe20c785fc3e5fd6ee90f543e1366215ca57817fb542ebaf6798552472371bd9dc658c3b75e69800bf3f3708b2930375b
-Description: ;)
-Name: wisp
-Author: zero
 
 Package: org.mr.xline
 Architecture: iphoneos-arm
