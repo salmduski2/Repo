@@ -171,6 +171,23 @@ Description: ادوات وظيفتهم : توقيع التطبيقات بشها�
 Name: TrollStore Helper + PermasigneriOS
 Author: BekEs - بيكاس
 
+Package: com.bekes-505.github.io.watusi3
+Architecture: iphoneos-arm
+Version: 1.1.41
+Section: Tweaks
+Maintainer: @B6_7E
+Installed-Size: 9532
+Depends: firmware (>= 10.0), mobilesubstrate (>= 0.9.5000), com.rpetrich.rocketbootstrap
+Filename: ./debs//com.bekes-505.github.io.watusi3_1.1.41_iphoneos-arm.deb
+Size: 24450386
+MD5sum: ec68e376501c077b36f0d356155280ed
+SHA1: 14bfaf7a01f48eb7a7fae0e53d97ea507e22e529
+SHA256: 3e1c42e3599fa897685d97b713ddcd1d98c4131cdee5b7209a3503849a4438c5
+SHA512: cf04b3baff3fb38d308e3f3d5a5fd100e5d3f2ca2196233f91b90a9a41801d77c6339b551ed2e843f88128c4ba7b36f97e51db9afe0ca4e74a8bb4ed24041e77
+Description: اداة وظيفتها : واتسي وات ساب بلس فيها مميزات كثيره للواتس النسخھ الجديدھ بممزات جديدھ مثلاً تجميد الظهور تحميل من الستوري وغيرھ ♡♡ ‏♯̶!.
+Name: Watusi 3 for WhatsApp
+Author: BekEs - بيكاس
+
 Package: com.bekes-505.github.io.wicked
 Architecture: iphoneos-arm
 Version: 1.0.4
