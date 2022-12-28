@@ -86,6 +86,24 @@ Name: AdBlocker
 Author: BekEs - بيكاس
 Sponsor: thebigboss.org
 
+Package: com.bekes-505.github.io.iota
+Architecture: iphoneos-arm
+Version: 2.2
+Section: Tweaks
+Maintainer: @B6_7E
+Installed-Size: 848
+Depends: mobilesubstrate
+Replaces: com.wyattgahm.shadowx
+Filename: ./debs//com.bekes-505.github.io.iota_2.2_iphoneos-arm.deb
+Size: 500266
+MD5sum: 9407f1b5b64e7b9becd0b39690dfc739
+SHA1: 607e330edc32bf93c143c96f8213da88a412e5bf
+SHA256: b279bbb91f176f83f3e4d637a4b39991bfe0e5467f8fa7bb5f635e51721b697c
+SHA512: d45656e6668afe34ee4866e1bed09a8134cce5a2f81667b6353ba3cfb702453bf200335e0c278219dc7420dddfb016e7b29f0957b6695b19d2b21c327e0fb903
+Description: اداة وظيفتها : سناب بلس لتحميل ورفع الفيدوهات وتخفي ووميزات كثير تدعم الاصدار الاخير ♡♡ ‏♯̶!.
+Name: iota
+Author: BekEs - بيكاس
+
 Package: com.bekes-505.github.io.relicloader
 Architecture: iphoneos-arm
 Version: 3.3.3
