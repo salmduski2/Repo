@@ -49,6 +49,24 @@ Name: Anne
 Tags: compatible_min::ios13, compatible_max::ios15
 Author: BekEs - بيكاس
 
+Package: com.bekes-505.github.io.apppad
+Architecture: iphoneos-arm
+Version: 1.1.1
+Section: Tweaks
+Maintainer: @B6_7E
+Installed-Size: 220
+Depends: mobilesubstrate, preferenceloader, com.opa334.altlist (>= 1.0.4), firmware (>= 9.0)
+Conflicts: com.yourepo.isaact1012.requirefullarm64e, com.matrix.requirefull
+Filename: ./debs//com.bekes-505.github.io.apppad_1.1.1_iphoneos-arm.deb
+Size: 9728
+MD5sum: 6b3b6746b7d9cf829a2399112e3608a2
+SHA1: e0975fcd1b9c57715f76dad8338516080d610430
+SHA256: 966e4babf9f9b515dddac535e1584176b9883dc1cb4ff2a3d62d5748e7aa1893
+SHA512: fe5bc0bfaa05f4daad2b211fdd43123d0580dd7618cc2f23876aeccb636a1f7382e32927de8e1fc71eb7a0d9eb7ea146d38f7f4a60f67f8da12e7292fb44ee22
+Description: اداة وظيفتها : خاصه بالايباد لجعل التطبيقات تقبل كامل الشاشه وتقبل الدوران  ♡♡ ‏♯̶!.
+Name: AppPad
+Author: BekEs - بيكاس
+
 Package: com.bekes-505.github.io.appstoreplusplus
 Architecture: iphoneos-arm
 Version: 0.10.1-5
